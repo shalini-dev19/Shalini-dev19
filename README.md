@@ -1,61 +1,102 @@
-<h1 align="center">Hi 👋, I'm Shalini</h1><h3 align="center">Aspiring Full Stack Developer | React Developer in Progress 🚀</h3>---
+<div align="center">
 
-👩‍💻 About Me
+<!-- HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:2d1b69,100:f97316&height=220&section=header&text=Hey%2C%20I'm%20Vasu%20👋&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Building%20What%20Matters&descSize=18&descAlignY=55&descAlign=50&animation=fadeIn" width="100%"/>
 
-Hi there! Welcome to my GitHub profile! 👋
+<!-- TYPING SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+scalable+and+impactful+software;Full+Stack+Magic+%E2%9C%A8+%7C+Performance+Obsessed;Turning+caffeine+into+clean+commits+%E2%98%95" alt="Typing SVG" />
 
-I'm Shalini, an aspiring Full Stack Developer currently building my skills in JavaScript and React.js. I enjoy learning by creating projects and improving my coding skills step by step.
+## 🔍 About Me
 
-🌱 Currently learning and strengthening my knowledge of React.js & Redux Toolkit
-💻 Exploring the world of Full Stack Development
-🚀 My goal is to build useful and creative web applications
-📚 Always learning, practicing, and growing as a developer
+- Full Stack Web Developer with MERN stack experience, responsive UI design, and scalable app delivery
+
+- Building production-ready systems with clean engineering and developer-friendly tooling
+- Focused on high performance, collaboration, and shipping software that works
+
+> I don't just write code — I engineer solutions. From pixel-perfect interfaces to battle-tested APIs,
+> I build full-stack applications that are designed to *scale, perform, and ship*.
+> Currently exploring *AI-powered tooling, and **developer experience*.
 
 ---
 
-🛠️ Skills & Technologies
-
-Languages:
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>Frameworks & Libraries:
-
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-</p>Currently Exploring:
-
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>Tools:
-
-<p>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>---
-
-📊 GitHub Stats
+## 🤝 Connect With Me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shalini-dev19&show_icons=true&theme=radical" />
-</p><p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shalini-dev19&theme=radical" />
-</p><p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalini-dev19&layout=compact&theme=radical" />
-</p>---
 
-🌐 Connect With Me
-
-<p>
-  <a href="https://www.linkedin.com/in/shalini-x-5a2ab03a5?utm_source=share_via&utm_content=profile&utm_medium=member_android">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/shalini-x-5a2ab03a5">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</p>---
 
-<h3 align="center">✨ Keep Learning • Keep Building • Keep Growing ✨</h3>
+  <a href="mailto:shalinikum117@gmail.com">📧 Email Me</a>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+
+</p>
+
+---
+
+## ⚡ Tech Arsenal
+
+<div align="center">
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+
+
+### 🛠️ DevOps & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+---
+
+### 🚀 Current Focus
+- *Daily LeetCode practice*: 5 problems per day
+- *Blind 75*: mastering core patterns like sliding window and hashing
+- *NeetCode 150*: steadily working through the list
+- *Fundamentals first*: arrays, strings, and two-pointer strategies
+
+
+
+</div>
+
+---
+
+## 💡 What I Bring to the Table
+
+<div align="center">
+
+| Strength | Description |
+|:---:|:---|
+| 🧩 *Problem Solving* | I decompose complex systems into clean, testable modules |
+| 📐 *System Design* | Database modeling, caching strategies, and distributed architectures |
+| 🚀 *Shipping Speed* | Prototype to MVP in days, not weeks — without cutting corners |
+| 🔄 *Full Stack Fluency* | Equally dangerous on the frontend and backend |
+| 📖 *Clean Code Culture* | Readable > Clever. Every PR tells a story |
+| 🤝 *Team Collaboration* | Async-first communication, thorough code reviews, zero ego |
+
+</div>
+
+---
+
+
+
+<div align="center">
+
+### 💭 Dev Philosophy
+
+> "Great developers don’t rush to code—they architect understanding first." — John Johnson
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:2d1b69,100:f97316&height=120&section=footer" width="100%"/>
+
+</div>
